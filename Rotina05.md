@@ -1,4 +1,8 @@
+LINK VIDEOS:https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing 
+
+
 ### Caso de Teste 01: Fechar caixa com sucesso
+
 | ID       | Descrição                        |
 |----------|----------------------------------|
 | C05-CT01 | Caixa do dia fechado e registrado.|
@@ -14,7 +18,7 @@ ENTÃO o caixa deve ser finalizado.
 **Critérios de Aceitação**
 - O dia fica bloqueado para novas movimentações.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+
 
 ---
 
@@ -34,7 +38,7 @@ ENTÃO deve exibir alerta informando **nenhuma movimentação**.
 **Critérios de Aceitação**
 - Bloqueio do fechamento.  
 - Teste evidenciado e reprovado: sistema permitiu fechar mesmo sem vendas.  
-- **COLOCAR LINK AQUI**
+
 
 ---
 
@@ -55,4 +59,3 @@ ENTÃO o sistema deve exibir um alerta indicando que o valor não pode ser maior
 **Critérios de Aceitação**
 - Retirada não registrada.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**

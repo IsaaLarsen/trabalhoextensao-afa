@@ -1,3 +1,5 @@
+LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing)
+
 ### Caso de Teste 01: Venda concluída com sucesso
 | ID       | Descrição                                                        |
 | -------- | ---------------------------------------------------------------- |
