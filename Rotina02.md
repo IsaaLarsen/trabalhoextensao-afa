@@ -1,4 +1,4 @@
-LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing)
+LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/133RW1ebZGVkdH2vAtJBGKDddF1-yLuRo?usp=drive_link)
 
 ### Caso de Teste 01: Venda concluída com sucesso
 | ID       | Descrição                                                        |
@@ -83,4 +83,5 @@ ENTÃO o sistema deve exibir um erro informando que é obrigatório selecionar u
 - Cadastro bloqueado.  
 - Teste evidenciado e aprovado.  
 - **[VIDEO CASO04] (https://drive.google.com/file/d/1Y7dV87gZjt_0oz2pE9O9vxxYx6pbPVln/view?usp=drive_link)**
+
 
