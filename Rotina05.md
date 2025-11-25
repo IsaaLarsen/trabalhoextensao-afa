@@ -1,4 +1,4 @@
-LINK VIDEOS:https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing 
+LINK VIDEOS: https://drive.google.com/drive/folders/1rPAU-DbDQ_1Cya_PgiDzbE0YH7vf6NkQ?usp=drive_link
 
 
 ### Caso de Teste 01: Fechar caixa com sucesso
@@ -19,7 +19,7 @@ ENTÃO o caixa deve ser finalizado.
 - O dia fica bloqueado para novas movimentações.  
 - Teste evidenciado e aprovado.  
 
-
+VIDEO CASO 01: https://drive.google.com/file/d/1u7kaWDCkIrKdpTILDo9ok8uDynsUNchh/view?usp=drive_link
 ---
 
 ### Caso de Teste 02: Tentar fechar caixa sem vendas no dia
@@ -39,7 +39,7 @@ ENTÃO deve exibir alerta informando **nenhuma movimentação**.
 - Bloqueio do fechamento.  
 - Teste evidenciado e reprovado: sistema permitiu fechar mesmo sem vendas.  
 
-
+VIDEO CASO 02: https://drive.google.com/file/d/1SgQ-dv_pq6uvY00MsnB-UAf7MjvjwYeB/view?usp=drive_link
 ---
 
 ### Caso de Teste 03: Retirada de valor maior que o saldo atual
@@ -59,3 +59,5 @@ ENTÃO o sistema deve exibir um alerta indicando que o valor não pode ser maior
 **Critérios de Aceitação**
 - Retirada não registrada.  
 - Teste evidenciado e aprovado.  
+
+VIDEO CASO 03: https://drive.google.com/file/d/1w2Jz-ZPw8MFFhPZxvsHg4FaWPEbITZtn/view?usp=drive_link 
