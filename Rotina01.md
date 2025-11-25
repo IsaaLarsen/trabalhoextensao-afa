@@ -1,4 +1,4 @@
-LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing)
+LINK DOS CASOS:[LINK VIDEOS:]([https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing](https://drive.google.com/file/d/1HARUfbnaHM_ud7eWgR-1WQOVF9zgDB_1/view?usp=drive_link))
 
 ### Caso de Teste 01: Importação de XML válida e geração da compra
 | ------- | ---------------------------------------------------------------- |
@@ -20,7 +20,7 @@ ENTÃO o sistema deve atualizar o estoque e marcar a compra como **“CONFIRMADA
 - Compra confirmada.  
 - Estoque atualizado com os itens importados.  
 - Teste executado e evidenciado.  
-- **COLOCAR LINK AQUI**
+- **[COLOCAR LINK AQUI](https://drive.google.com/file/d/1jVloIo-iUrHZlQHkRY1R8zuuCFxIg2l7/view?usp=drive_link)**
 
 | ------- | ---------------------------------------------------------------- |
 
@@ -43,7 +43,7 @@ ENTÃO o sistema deve exibir mensagens informando que o campo é obrigatório.
 #### Critérios de aceitação
 - Validação dos campos obrigatórios.  
 - Testes executados e evidenciados.  
-- **COLOCAR LINK AQUI**
+- **[COLOCAR LINK AQUI](https://drive.google.com/file/d/1F6i5zycOrIs-bgYvW0Qerfr7MZxCwN2M/view?usp=drive_link)**
 
 | ------- | ---------------------------------------------------------------- |
 
@@ -67,7 +67,7 @@ ENTÃO o sistema deve exibir erro e impedir a continuidade do processo.
 - Mensagem clara indicando erro no XML.  
 - Não deve permitir prosseguir para gerar compra.  
 - Teste realizado e evidenciado.  
-- **COLOCAR LINK AQUI**
+- **[COLOCAR LINK AQUI](https://drive.google.com/file/d/1HARUfbnaHM_ud7eWgR-1WQOVF9zgDB_1/view?usp=drive_link)**
 
 | ------- | ---------------------------------------------------------------- |
 
@@ -89,6 +89,7 @@ ENTÃO a compra deve permanecer com status **“PENDENTE”** e não alterar o e
 #### Critérios de aceitação
 - Estoque inalterado.  
 - Teste realizado e evidenciado.  
-- **COLOCAR LINK AQUI**
+- **[COLOCAR LINK AQUI](https://drive.google.com/file/d/1HRhySahGK2RTgQGdgwfhlE1lfQfxfC4F/view?usp=drive_link)**
 
 | ------- | ---------------------------------------------------------------- |
+
