@@ -1,4 +1,4 @@
-[LINK DOS CASOS VIDEOS:]([https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing](https://drive.google.com/file/d/1HARUfbnaHM_ud7eWgR-1WQOVF9zgDB_1/view?usp=drive_link))
+[LINK DOS CASOS VIDEOS:](https://drive.google.com/drive/folders/1OGO6xnro1tVTBj3FLozxJ_qgSfeIlXZS?usp=drive_link)
 
 ### Caso de Teste 01: Importação de XML válida e geração da compra
 | ------- | ---------------------------------------------------------------- |
@@ -92,5 +92,6 @@ ENTÃO a compra deve permanecer com status **“PENDENTE”** e não alterar o e
 - **[VIDEO CASO04](https://drive.google.com/file/d/1HRhySahGK2RTgQGdgwfhlE1lfQfxfC4F/view?usp=drive_link)**
 
 | ------- | ---------------------------------------------------------------- |
+
 
 
