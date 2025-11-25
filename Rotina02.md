@@ -20,7 +20,7 @@ ENTÃO a venda deve ser registrada e aparecer no Livro Caixa.
 - Estoque atualizado conforme venda.  
 - Entrada registrada no caixa.  
 - Teste realizado e evidenciado.  
-- **COLOCAR LINK AQUI**
+- **[VIDEO CASO01] (https://drive.google.com/file/d/17IgXDpeWuOaCwCyDuWWaSiHVDJUorXB_/view?usp=drive_link)**
 
 ---
 
@@ -40,7 +40,7 @@ ENTÃO o sistema deve exibir a mensagem **“Estoque insuficiente”**.
 **Critérios de Aceitação**  
 - Produto não deve ser incluído na venda.  
 - Teste realizado e reprovado: sistema permitiu finalizar venda mesmo sem estoque.  
-- **COLOCAR LINK AQUI**
+- **[VIDEO CASO02] (https://drive.google.com/file/d/1SRlGaBbIllZTS82Y--MTlKQTR7egDF_z/view?usp=drive_link)**
 
 ---
 
@@ -60,7 +60,7 @@ ENTÃO o sistema deve exibir uma mensagem de erro.
 **Critérios de Aceitação**  
 - Finalização bloqueada.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **[VIDEO CASO03] (https://drive.google.com/file/d/14ba_V324q9aqbvFKDvXa_0TGdSYAF9pQ/view?usp=drive_link)**
 
 ---
 
@@ -82,4 +82,5 @@ ENTÃO o sistema deve exibir um erro informando que é obrigatório selecionar u
 **Critérios de Aceitação**  
 - Cadastro bloqueado.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **[VIDEO CASO04] (https://drive.google.com/file/d/1Y7dV87gZjt_0oz2pE9O9vxxYx6pbPVln/view?usp=drive_link)**
+
