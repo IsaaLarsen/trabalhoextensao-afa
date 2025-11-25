@@ -1,4 +1,4 @@
-LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing)
+LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1vbQNf6b-eGDcT7QbNSy8M2_uabqg7QHf?usp=sharing)
 
 ### Caso de Teste 01: Cadastro de cliente PF com sucesso
 | ID       | Descrição                                  |
@@ -17,7 +17,7 @@ ENTÃO o cliente deve aparecer na lista.
 **Critérios de Aceitação**
 - Cadastro salvo.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO01 https://drive.google.com/file/d/18oglXn7CxsaB4T_e4uH_dmrehP_SnMjB/view?usp=drive_link**
 
 ---
 
@@ -37,7 +37,7 @@ ENTÃO o sistema deve exibir um alerta.
 **Critérios de Aceitação**
 - Cadastro bloqueado.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO02 https://drive.google.com/file/d/1wJ-V64zR-vHD5ZvnDZHO8lcAmivEc5Bl/view?usp=drive_link**
 
 ---
 
@@ -58,7 +58,7 @@ ENTÃO o sistema remove o cliente selecionado.
 **Critérios de Aceitação**
 - Alerta exibido.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO03 https://drive.google.com/file/d/1_Lv9tKrQ_7jf9DuLhNB7AHMWUuvK8NOK/view?usp=drive_link**
 
 ---
 
@@ -82,7 +82,7 @@ ENTÃO o sistema solicita credenciais e nome para confirmação.
 - Alterações salvas.  
 - Campos financeiros passam a aparecer.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO04 https://drive.google.com/file/d/1-eviWqqhdlhAsaiRHG9wIsD9vYwjIdJu/view?usp=drive_link**
 
 ---
 
@@ -105,4 +105,5 @@ ENTÃO o sistema deve alertar que o cliente não possui limite suficiente.
 **Critérios de Aceitação**
 - Cliente é exibido na listagem.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO05 https://drive.google.com/file/d/1TZpebA1B0t9I0B1jGT6762Rb94BGHuNA/view?usp=drive_link**
+
