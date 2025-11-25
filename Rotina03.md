@@ -1,4 +1,4 @@
-LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1oAEPwQBpbjFOWliLfzkS8e_A4_Lo-DFy?usp=sharing)
+LINK VIDEOS:[LINK VIDEOS:](https://drive.google.com/drive/folders/1DCRYm3bZURPVUPwgOWkgVSs6UKE05Xfq?usp=drive_link)
 
 ### Caso de Teste 01: Compra concluída com sucesso
 | ID       | Descrição                                                        |
@@ -18,7 +18,7 @@ ENTÃO o estoque deve ser atualizado corretamente.
 **Critérios de Aceitação**
 - Compra marcada como CONFIRMADA.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO 01 : https://drive.google.com/file/d/1jukBnyk4DOBEOODr35E6CRbmjPJVTfjs/view?usp=drive_link**
 
 ---
 
@@ -38,7 +38,7 @@ ENTÃO o sistema deve criar um novo fornecedor.
 
 **Critérios de Aceitação**
 - Teste evidenciado e reprovado: erro no campo CEP mesmo informando valor válido.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO 02 : https://drive.google.com/file/d/1iCup6pIUxvik-kuFJc_T917aWdSrQ2QK/view?usp=drive_link**
 
 ---
 
@@ -58,7 +58,7 @@ ENTÃO o sistema deve bloquear a ação.
 **Critérios de Aceitação**
 - Mensagem exibida: “Fornecedor obrigatório”.  
 - Teste evidenciado e aprovado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO 03 : https://drive.google.com/file/d/1Qayn4t26tRsYxFckZxnNsxRQZ-94wCWL/view?usp=drive_link**
 
 ---
 
@@ -80,4 +80,5 @@ ENTÃO o sistema deve exibir uma mensagem de erro.
 **Critérios de Aceitação**
 - Mensagem: “É necessário informar o tipo de documento”.  
 - Teste realizado e evidenciado.  
-- **COLOCAR LINK AQUI**
+- **VIDEO CASO 04 : https://drive.google.com/file/d/1BiMdX5ljkegwuF-Yh3zhEWHetkZIMo5V/view?usp=drive_link**
+
